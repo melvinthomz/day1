@@ -1,0 +1,49 @@
+#demo
+{
+    color: darkblue;
+    text-align: center;
+    font-size: x-large;
+    font-weight: 300;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+#alpha
+{
+    color: darkred;
+    font-weight: 100;
+    font-size: large;
+    text-align: center;
+}
+
+
+.avatar{
+    border-radius: 50%;
+}
+ 
+
+.one
+{
+    color: blue;
+    font-size: large;
+}
+.second
+{
+    color: black;
+    font-size: medium;
+}
+.two
+
+{
+    color: blue;
+    font-size: large;
+    
+    justify-content: end;
+}
+.gama
+{
+    color:black;
+    font-size: large;
+    display: flex;
+    justify-content: end;
+}

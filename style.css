@@ -1,0 +1,9 @@
+#first{
+    color: blueviolet;
+    
+    
+    border: 2px;
+    border-style: dashed;
+    display: flex ;
+    justify-content: center;
+}
