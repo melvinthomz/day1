@@ -1,6 +1,6 @@
 #demo
 {
-    color: darkblue;
+    color: black;
     text-align: center;
     font-size: x-large;
     font-weight: 300;
@@ -10,7 +10,7 @@
 
 #alpha
 {
-    color: darkred;
+    color: white;
     font-weight: 100;
     font-size: large;
     text-align: center;
@@ -22,28 +22,91 @@
 }
  
 
+.common{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
 .one
 {
-    color: blue;
+    color: black;
     font-size: large;
 }
 .second
 {
-    color: black;
+    color: white;
     font-size: medium;
 }
 .two
 
 {
-    color: blue;
+    color: black;
     font-size: large;
+    display: flex;
     
-    justify-content: end;
+    /* justify-content: center;
+    text-align: end; */
 }
 .gama
 {
-    color:black;
+    color:white;
     font-size: large;
     display: flex;
-    justify-content: end;
+    text-align: end;
+    justify-content: center;
+    
+}
+#second
+{
+    color: black;
+    font-size: large;
+    text-align: left;
+}
+.third
+{
+    color: white;
+    font-size: medium;
+    text-align: left;
+}
+body
+{
+    background-color: grey;
+}
+.three
+{
+    color: black;
+    font-size: large;
+    display: flex;
+    text-align:right;
+    justify-content:right;
+}
+.beta
+{
+    color: white;
+    font-size: medium;
+    text-align: right;
+}
+.four
+{
+    color: black;
+    font-size: large;
+    justify-content: center;
+}
+.omega
+{
+    color: white;
+    font-size: medium;
+    text-align: center;
+    justify-content: right;
+}
+.avatar1
+{
+    border-radius: 50%;
+
+}
+
+body{
+    background-size: 100%;
 }
