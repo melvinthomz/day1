@@ -11,3 +11,9 @@ p
 {
     color: white;
 }
+ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }

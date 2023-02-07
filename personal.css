@@ -1,12 +1,19 @@
 #demo
 {
-    color: black;
+    color: white;
     text-align: center;
     font-size: x-large;
     font-weight: 300;
     font-family: 'Times New Roman', Times, serif;
     font-style: italic;
+    
 }
+ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
 
 #alpha
 {
